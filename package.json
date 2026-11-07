@@ -1,6 +1,6 @@
 {
   "name": "dsh-github-accel",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "GitHub acceleration for DeepSeek Harness: probe mirrors, rewrite GitHub URLs, and download or shallow-clone through the fastest healthy mirror.",
   "type": "module",
   "main": "index.js",
