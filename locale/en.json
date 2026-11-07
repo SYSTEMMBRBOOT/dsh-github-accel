@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GitHub acceleration",
+    "description": "Probes GitHub mirrors, rewrites GitHub URLs, and downloads or shallow-clones through the fastest healthy mirror."
+  }
+}

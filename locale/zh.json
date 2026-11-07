@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GitHub 加速",
+    "description": "探测 GitHub 镜像，改写 GitHub 链接，并通过最快可用的镜像下载文件或浅克隆仓库。"
+  }
+}
