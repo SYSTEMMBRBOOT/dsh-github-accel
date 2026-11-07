@@ -1,5 +1,5 @@
-/**
- * dsh-github-accel 鈥?GitHub acceleration for DeepSeek Harness.
+﻿/**
+ * dsh-github-accel 閳?GitHub acceleration for DeepSeek Harness.
  *
  * Registers five model-facing tools (resolve / probe / download / clone / read)
  * that route GitHub traffic through a configurable list of mirrors. The mirror
@@ -32,7 +32,7 @@ import {
 } from './lib/core.js'
 
 const NAME = 'dsh-github-accel'
-const VERSION = '1.0.0'
+const VERSION = '1.0.1'
 const USER_AGENT = `${NAME}/${VERSION} (+https://github.com/SYSTEMMBRBOOT/dsh-github-accel)`
 const DEFAULT_MIRROR = 'auto'
 
